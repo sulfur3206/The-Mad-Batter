@@ -7,3 +7,5 @@ flood.bat - run on victim's computer - creates a bunch of folders on the victim'
 
 unsecure.bat - run on victim's computer - disables processes: Windows Firewall, Windows Updates, Workstation, DHCP Client, DNS Client, Print Spooler, and Themes
 
+-by sulfur3206
+
